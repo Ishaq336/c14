@@ -1,0 +1,148 @@
+CRITICAL - 2023-02-15 11:30:01 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\UserModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UserModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 4 APPPATH\Controllers\Home.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 11:30:47 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\UserModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UserModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 4 APPPATH\Controllers\Home.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 11:30:48 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\UserModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UserModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 4 APPPATH\Controllers\Home.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 11:30:48 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\UserModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UserModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 4 APPPATH\Controllers\Home.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 11:31:19 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\UserModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UserModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 4 APPPATH\Controllers\Home.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->dashboard()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 11:31:21 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\UserModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UserModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 4 APPPATH\Controllers\Home.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->dashboard()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 11:35:25 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\UserModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UserModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 4 APPPATH\Controllers\Home.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 12:47:52 --> syntax error, unexpected identifier "Home", expecting ")"
+in APPPATH\Config\Routes.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 12:47:53 --> syntax error, unexpected identifier "Home", expecting ")"
+in APPPATH\Config\Routes.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 12:55:27 --> Undefined variable $page_title
+in APPPATH\Views\common\header.php on line 8.
+ 1 APPPATH\Views\common\header.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_title', 'APPPATH\\Views\\common\\header.php', 8)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\common\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('common/header', [], true)
+ 5 APPPATH\Controllers\Home.php(20): view('common/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->home_index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 12:55:42 --> Undefined variable $page_title
+in APPPATH\Views\common\header.php on line 8.
+ 1 APPPATH\Views\common\header.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_title', 'APPPATH\\Views\\common\\header.php', 8)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\common\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('common/header', [], true)
+ 5 APPPATH\Controllers\Home.php(20): view('common/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->home_index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 12:56:16 --> Undefined variable $page_title
+in APPPATH\Views\common\header.php on line 8.
+ 1 APPPATH\Views\common\header.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_title', 'APPPATH\\Views\\common\\header.php', 8)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\common\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('common/header', [], true)
+ 5 APPPATH\Controllers\Home.php(20): view('common/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->home_index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 12:56:27 --> Undefined variable $page_title
+in APPPATH\Views\common\header.php on line 8.
+ 1 APPPATH\Views\common\header.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_title', 'APPPATH\\Views\\common\\header.php', 8)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\common\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('common/header', [], true)
+ 5 APPPATH\Controllers\Home.php(12): view('common/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 12:56:28 --> Undefined variable $page_title
+in APPPATH\Views\common\header.php on line 8.
+ 1 APPPATH\Views\common\header.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_title', 'APPPATH\\Views\\common\\header.php', 8)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\common\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('common/header', [], true)
+ 5 APPPATH\Controllers\Home.php(12): view('common/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 12:56:48 --> Undefined variable $page_title
+in APPPATH\Views\common\header.php on line 8.
+ 1 APPPATH\Views\common\header.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_title', 'APPPATH\\Views\\common\\header.php', 8)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\common\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('common/header', [], true)
+ 5 APPPATH\Controllers\Home.php(12): view('common/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
